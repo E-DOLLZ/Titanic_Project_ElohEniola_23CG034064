@@ -1,0 +1,6 @@
+Name: Eniola Eloh
+Matric Number: 23CG034064
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method: Joblib
+Live URL: https://titanic-project-eloheniola-23cg034064.onrender.com/
+GitHub Repository: https://github.com/E-DOLLZ/Titanic_Project_ElohEniola_23CG034064
